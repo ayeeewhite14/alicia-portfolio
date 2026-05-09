@@ -22,14 +22,15 @@
 
 <!-- NAVIGATION BAR -->
 <p align="center">
-  <a href="#about-me">👤 About</a> •
-  <a href="education-coursework/coursework.md">🎓 Education</a> •
-  <a href="skills/cybersecurity-skills.md">🛡 Skills</a> •
-  <a href="projects/ncl/ncl-summary.md">🧪 Projects</a> •
-  <a href="reflections/reflections.md">🧠 Reflections</a> •
-  <a href="documents/README.md">📄 Documents</a> •
-  <a href="contact/contact-info.md">📬 Contact</a>
+  <a href="about/about-me.md">About</a> •
+  <a href="education-coursework/coursework.md">Education</a> •
+  <a href="skills/cybersecurity-skills.md">Skills</a> •
+  <a href="projects/ncl/ncl-summary.md">Projects</a> •
+  <a href="reflections/reflections.md">Reflections</a> •
+  <a href="documents/README.md">Documents</a> •
+  <a href="contact/contact-info.md">Contact</a>
 </p>
+
 
 </div>
 
@@ -197,6 +198,6 @@ I’m currently expanding my skills in **networking, cybersecurity, and scriptin
 <div align="center">
 
 ### ⭐ Thanks for visiting my portfolio!  
-Built with pride in **navy blue + gold**.
+Built with Eagle pride!
 
 </div>
