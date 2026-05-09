@@ -1,64 +1,76 @@
-# Alicia — Cybersecurity Portfolio
+<!-- ======================================= -->
+<!--        NAVY BLUE + GOLD THEME           -->
+<!-- ======================================= -->
+
+<div align="center">
+
+# <span style="color:#0A1A44;">Alicia — Cybersecurity Portfolio</span>
+
+![Profile Banner](https://img.freepik.com/premium-photo/girl-is-programmer-ai-generated_428148-130.jpg)
 
 ---
 
-<!-- ========================= -->
-<!--     NAVIGATION BAR        -->
-<!-- ========================= -->
-
-<p align="center">
-  <a href="#about-me">About</a> •
-  <a href="education-coursework/coursework.md">Education</a> •
-  <a href="skills/cybersecurity-skills.md">Skills</a> •
-  <a href="projects/ncl/ncl-summary.md">Projects</a> •
-  <a href="reflections/reflections.md">Reflections</a> •
-  <a href="documents/README.md">Documents</a> •
-  <a href="contact/contact-info.md">Contact</a>
+<!-- BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-Student-0A1A44?style=for-the-badge&logo=hackthebox&logoColor=gold"/>
+  <img src="https://img.shields.io/badge/Location-Houston_TX-0A1A44?style=for-the-badge&logo=google-maps&logoColor=gold"/>
+  <img src="https://img.shields.io/badge/Tools-Wireshark-0A1A44?style=for-the-badge&logo=wireshark&logoColor=gold"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS_&_Azure-0A1A44?style=for-the-badge&logo=amazonaws&logoColor=gold"/>
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--         LOGOS             -->
-<!-- ========================= -->
+<!-- NAVIGATION BAR -->
+<p align="center">
+  <a href="#about-me">👤 About</a> •
+  <a href="education-coursework/coursework.md">🎓 Education</a> •
+  <a href="skills/cybersecurity-skills.md">🛡 Skills</a> •
+  <a href="projects/ncl/ncl-summary.md">🧪 Projects</a> •
+  <a href="reflections/reflections.md">🧠 Reflections</a> •
+  <a href="documents/README.md">📄 Documents</a> •
+  <a href="contact/contact-info.md">📬 Contact</a>
+</p>
+
+</div>
+
+---
+
+<!-- ======================================= -->
+<!--                LOGOS                    -->
+<!-- ======================================= -->
 
 <p align="center">
-  <img src="assets/hcc-logo.png" alt="Houston Community College" width="200"/>
+  <img src="assets/hcc-logo.png" width="180"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/uh-logo.png" alt="University of Houston" width="200"/>
+  <img src="assets/uh-logo.png" width="180"/>
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--     HEADER IMAGE          -->
-<!-- ========================= -->
-
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/girl-is-programmer-ai-generated_428148-130.jpg" 
-       alt="Cybersecurity Programmer" width="500">
-</p>
-
----
-
+# 👤 About Me
 <details id="about-me">
-<summary>👋 <strong>About Me</strong></summary>
+<summary><strong>Click to expand</strong></summary>
+
 <p align="center">
-  <!-- School Logo -->
-  <img src="assets/abb81446-6cd7-4822-9dd6-0cbb2fa076c8_1920x1080.jpg" alt="School logo" width="250" style="border-radius:10px;"/>
+  <img src="assets/abb81446-6cd7-4822-9dd6-0cbb2fa076c8_1920x1080.jpg" width="250" style="border-radius:10px;"/>
   <br><br>
-  <!--Headshot -->
-  <img src="assets/Media (32).jpg" alt="headshot" width="200"/>
+  <img src="assets/Media (32).jpg" width="200" style="border-radius:10px;"/>
 </p>
 
-Hey there! name is Alicia, and I am a **3rd‑year Junior** studying cybersecurity and information technology. I graduated from **Houston Community College**, where I developed strong hands‑on experience in **IT networking, infrastructure management, and cloud technologies**, including both **IaaS** and **PaaS** environments.
+Hey there! My name is **Alicia**, and I am a **3rd‑year Junior** studying cybersecurity and information technology.  
+I graduated from **Houston Community College**, where I gained hands‑on experience in:
 
-I have practical experience using **Wireshark** for network monitoring and traffic analysis, and I also have a background working with **COBOL** and **JCL** in banking database environments. I am currently expanding my skills in **networking**, **cybersecurity**, and **scripting**, and I am preparing to **transfer to the University of Houston** to continue advancing my technical expertise.
+- IT networking  
+- Infrastructure management  
+- Cloud technologies (IaaS & PaaS)  
+- Wireshark traffic analysis  
+- COBOL & JCL in banking systems  
+
+I’m currently expanding my skills in **networking, cybersecurity, and scripting**, and preparing to transfer to the **University of Houston**.
 
 ---
 
 ### 📊 My Top Languages
-
 <details>
 <summary>Click to expand</summary>
 
@@ -74,156 +86,117 @@ I have practical experience using **Wireshark** for network monitoring and traff
 
 ---
 
+# 🎓 Education
 <details id="education">
-<summary>🎓 <strong>Education</strong></summary>
+<summary><strong>Click to expand</strong></summary>
 
 ### **Houston Community College**  
-*Graduate — Cybersecurity / IT Networking*  
-- Built foundational skills in networking, infrastructure, cloud services, and cybersecurity tools  
-- Hands‑on experience with Wireshark, virtualization, scripting, and system administration  
+*Cybersecurity / IT Networking*  
+- Network security  
+- Virtualization  
+- Cloud fundamentals  
+- Scripting & automation  
 
 ### **University of Houston (Intended Transfer)**  
-*Planned Major: Cybersecurity / Computer Science*  
-- Continuing education to deepen technical expertise  
-- Focus areas: network defense, cloud security, digital forensics, and secure infrastructure  
+*Cybersecurity / Computer Science*  
+- Network defense  
+- Cloud security  
+- Digital forensics  
 
 </details>
 
 ---
 
-<details id="organizations">
-<summary>🏫 <strong>Organizations</strong></summary>
+# 🛡 Skills
+<details id="skills">
+<summary><strong>Click to expand</strong></summary>
 
-### **Computer Science Association (CSA)**
-- Participate in technical discussions  
-- Collaborate with peers  
-- Stay engaged with cybersecurity‑focused activities and learning  
+### 🧰 Technical Skills  
+- C#, Java, COBOL, Python  
+- Azure AD, AWS IAM  
+- Wireshark, IDS concepts  
+- SQL, PostgreSQL, Oracle  
+- PowerShell automation  
 
-</details>
+### 🔐 Security Domains  
+- IAM  
+- Risk Assessment  
+- Incident Response  
+- Secure Infrastructure  
 
----
-
-<details id="competitions--challenges">
-<summary>🏆 <strong>Competitions & Challenges</strong></summary>
-
-### **National Cyber League (NCL) Cybersecurity Challenge**
-Participated in hands‑on cybersecurity challenges involving:
-- Password cracking  
-- Log analysis  
-- Network traffic investigation  
-- OSINT  
-- Cryptography  
-- Web exploitation  
-- Enumeration and scanning  
-
-Full write‑ups will be added in the **Projects** section.
+### 🧩 Professional Skills  
+- SOP creation  
+- Troubleshooting  
+- Agile/Scrum  
+- Communication  
 
 </details>
 
 ---
 
-<details>
-<summary>☁️ <strong>Word Cloud</strong></summary>
+# 🧪 Projects
+<details id="projects">
+<summary><strong>Click to expand</strong></summary>
 
-*A word cloud representing my values, interests, and cybersecurity focus will be added here.*  
-(Upload your `.jpg` when ready.)
-
-</details>
-
----
-
-<details id="projects--hands-on-experience">
-<summary>🧪 <strong>Projects & Hands‑On Experience</strong></summary>
-
-### **NCL Challenges**
+### 🏆 National Cyber League (NCL)
 - Network Traffic Analysis  
 - Password Cracking  
 - Log Analysis  
-- OSINT Investigations  
-- Cryptography Challenges  
+- OSINT  
+- Cryptography  
 - Web Exploitation  
 - Enumeration & Scanning  
 
-Each project page will include:
-- Description  
-- Tools used  
-- Skills demonstrated  
-- What I learned  
-- Screenshots (optional)
+### 🛰 XP Cyber Range  
+*(Coming soon)*
 
-### **XP Cyber Range Labs**
-*(Will be added once details are provided.)*
-
-### **NDG Labs**
-*(Will be added once details are provided.)*
+### 🖥 NDG Labs  
+*(Coming soon)*
 
 </details>
 
 ---
 
-<details id="reflections--lessons-learned">
-<summary>🧠 <strong>Reflections & Lessons Learned</strong></summary>
+# 🧠 Reflections
+<details id="reflections">
+<summary><strong>Click to expand</strong></summary>
 
-This section will highlight:
-- Skills I gained throughout my cybersecurity coursework  
-- Challenges I encountered and how I overcame them  
-- How NCL and hands‑on labs shaped my understanding of cybersecurity  
-- Areas I am continuing to improve  
-
-(Will be fully written once résumé and project details are uploaded.)
+- Understanding attacker mindset  
+- Improving troubleshooting  
+- Strengthening scripting skills  
+- Learning legacy + modern systems  
 
 </details>
 
 ---
 
-<details id="supporting-documents">
-<summary>📄 <strong>Supporting Documents</strong></summary>
+# 📄 Supporting Documents
+<details id="documents">
+<summary><strong>Click to expand</strong></summary>
 
-This section will include:
 - Résumé  
 - Certificates  
-- Recommendation letters  
-- Academic papers or projects  
-
-(Upload your résumé and documents when ready.)
+- Academic papers  
 
 </details>
 
 ---
 
-<details>
-<summary>🎖 <strong>Certifications & Training</strong></summary>
+# 📬 Contact
+<details id="contact">
+<summary><strong>Click to expand</strong></summary>
 
-This section will list:
-- Certifications earned  
-- Certifications in progress  
-- Workshops, bootcamps, or cybersecurity training  
-
-(Will be filled in after reviewing your résumé.)
-
-</details>
-
----
-
-<details>
-<summary>💻 <strong>Independent Projects</strong></summary>
-
-Any personal cybersecurity or IT projects will be added here, including:
-- What I built  
-- Why I built it  
-- What I learned  
-- How it aligns with my career goals  
-
-</details>
-
----
-
-<details id="contact--professional-presence">
-<summary>📬 <strong>Contact & Professional Presence</strong></summary>
-
-- **Email:** *(to be added)*  
-- **LinkedIn:** *(to be added)*  
+- **Email:** alicia.white0923@gmail.com  
 - **GitHub:** https://github.com/ayeeewhite14  
+- **LinkedIn:** *(add link)*  
 
 </details>
 
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my portfolio!  
+Built with pride in **navy blue + gold**.
+
+</div>
