@@ -4,7 +4,23 @@
 
 <div align="center">
 
-# <span style="color:#0A1A44;">Alicia — Cybersecurity Portfolio</span>
+# <span style="color:#0A1A44;"> Welcome to Alicia's Portfolio</span>
+<p align="center">
+  <svg width="0" height="0">
+    <defs>
+      <filter id="pulse-gold">
+        <feGaussianBlur stdDeviation="0">
+          <animate attributeName="stdDeviation" values="0;3;0" dur="2s" repeatCount="indefinite"/>
+        </feGaussianBlur>
+      </filter>
+    </defs>
+  </svg>
+
+  <span style="filter:url(#pulse-gold); color:#DAA520; font-weight:600;">
+    🔐 Access granted — explore the links to uncover who I am.
+  </span>
+</p>
+
 
 ![Profile Banner](https://img.freepik.com/premium-photo/girl-is-programmer-ai-generated_428148-130.jpg)
 
