@@ -44,8 +44,15 @@
 
 <details id="about-me">
 <summary>👋 <strong>About Me</strong></summary>
+<p align="center">
+  <!-- Professional Photo -->
+  <img src="assets/professional-photo.jpeg" alt="Alicia Professional Photo" width="250" style="border-radius:10px;"/>
+  <br><br>
+  <!-- ProLytX Logo -->
+  <img src="assets/prolytx-logo.png" alt="ProLytX Logo" width="200"/>
+</p>
 
-My name is Alicia, and I am a **3rd‑year Junior** studying cybersecurity and information technology. I graduated from **Houston Community College**, where I developed strong hands‑on experience in **IT networking, infrastructure management, and cloud technologies**, including both **IaaS** and **PaaS** environments.
+Hey there! name is Alicia, and I am a **3rd‑year Junior** studying cybersecurity and information technology. I graduated from **Houston Community College**, where I developed strong hands‑on experience in **IT networking, infrastructure management, and cloud technologies**, including both **IaaS** and **PaaS** environments.
 
 I have practical experience using **Wireshark** for network monitoring and traffic analysis, and I also have a background working with **COBOL** and **JCL** in banking database environments. I am currently expanding my skills in **networking**, **cybersecurity**, and **scripting**, and I am preparing to **transfer to the University of Houston** to continue advancing my technical expertise.
 
