@@ -6,9 +6,9 @@
   <img src="../assets/Media (32).jpg" width="200" style="border-radius:10px;"/>
 </p>
 
-Hey there! My name is **Alicia**, and I am a **3rd‑year Junior** studying cybersecurity and information technology.  
+Hey there! My name is **Alicia**, and I am a **3rd‑year Junior** studying Cybersecurity and Information Technology.  
 
-I graduated from **Houston Community College**, where I gained hands‑on experience in:
+I graduated from **Houston City College**, where I gained hands‑on experience in:
 
 - IT networking  
 - Infrastructure management  
