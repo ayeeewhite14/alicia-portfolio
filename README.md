@@ -46,7 +46,7 @@
 <summary>👋 <strong>About Me</strong></summary>
 <p align="center">
   <!-- Professional Photo -->
-  <img src="assets/professional-photo.jpeg" alt="Alicia Professional Photo" width="250" style="border-radius:10px;"/>
+  <img src="assets/Prolytx logo without engineering IT 1.png" alt="" width="250" style="border-radius:10px;"/>
   <br><br>
   <!-- ProLytX Logo -->
   <img src="assets/prolytx-logo.png" alt="ProLytX Logo" width="200"/>
