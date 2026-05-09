@@ -44,7 +44,7 @@
 - Service identification
   
 <p align="center">
-  <a href="../../README.md" style="
+  <a href="../README.md" style="
     background:#0A1A44;
     color:#DAA520;
     padding:10px 18px;
@@ -53,6 +53,6 @@
     font-weight:600;
     font-size:16px;
   ">
-    ⬅️ Back to Home
+    ⬅️ Back to Projects
   </a>
 </p>
