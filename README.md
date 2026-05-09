@@ -41,15 +41,13 @@
 <!-- ======================================= -->
 
 <p align="center">
-  <img src="assets/hcc-logo.jpg" width="180"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/uh-logo.jpg" width="180"/>
+  <img src="assets/hcc-logo.jpg" width="420" style="border-radius: 8px;"/>
 </p>
 
 ---
 
 
 ### ⭐ Thanks for visiting my portfolio!  
-Built with Eagle pride!
+  Built with Eagle pride!
 
 </div>
