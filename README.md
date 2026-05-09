@@ -45,11 +45,11 @@
 <details id="about-me">
 <summary>👋 <strong>About Me</strong></summary>
 <p align="center">
-  <!-- Professional Photo -->
-  <img src="assets/Prolytx logo without engineering IT 1.png" alt="Media (32).jpg" width="250" style="border-radius:10px;"/>
+  <!-- School Logo -->
+  <img src="assets/abb81446-6cd7-4822-9dd6-0cbb2fa076c8_1920x1080.jpg" alt="School logo" width="250" style="border-radius:10px;"/>
   <br><br>
-  <!-- ProLytX Logo -->
-  <img src="assets/prolytx-logo.png" alt="ProLytX Logo" width="200"/>
+  <!--Headshot -->
+  <img src="assets/Media (32).jpg" alt="headshot" width="200"/>
 </p>
 
 Hey there! name is Alicia, and I am a **3rd‑year Junior** studying cybersecurity and information technology. I graduated from **Houston Community College**, where I developed strong hands‑on experience in **IT networking, infrastructure management, and cloud technologies**, including both **IaaS** and **PaaS** environments.
