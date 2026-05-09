@@ -27,3 +27,17 @@ I’m currently expanding my skills in **networking, cybersecurity, and scriptin
 | 1 | COBOL |
 | 2 | SQL |
 | 3 | Java |
+
+<p align="center">
+  <a href="../README.md" style="
+    background:#0A1A44;
+    color:#DAA520;
+    padding:10px 18px;
+    border-radius:8px;
+    text-decoration:none;
+    font-weight:600;
+    font-size:16px;
+  ">
+    ⬅️ Back to Home
+  </a>
+</p>
