@@ -8,13 +8,12 @@
 
 <p align="center">
   <a href="#about-me">About</a> •
-  <a href="#education">Education</a> •
-  <a href="#organizations">Organizations</a> •
-  <a href="#competitions--challenges">Challenges</a> •
-  <a href="#projects--hands-on-experience">Projects</a> •
-  <a href="#reflections--lessons-learned">Reflections</a> •
-  <a href="#supporting-documents">Documents</a> •
-  <a href="#contact--professional-presence">Contact</a>
+  <a href="education-coursework/coursework.md">Education</a> •
+  <a href="skills/cybersecurity-skills.md">Skills</a> •
+  <a href="projects/ncl/ncl-summary.md">Projects</a> •
+  <a href="reflections/reflections.md">Reflections</a> •
+  <a href="documents/README.md">Documents</a> •
+  <a href="contact/contact-info.md">Contact</a>
 </p>
 
 ---
